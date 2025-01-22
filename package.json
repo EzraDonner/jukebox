@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "prisma": "^6.2.1"
+  },
+  "name": "jukebox",
+  "version": "1.0.0",
+  "description": "Introducing Jukebox, the successor to Jukebox Mini! We've secured some initial tracks for our digital music platform, so now users can add tracks to their playlists.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
